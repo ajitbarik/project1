@@ -1,0 +1,3 @@
+We've begun rolling out major improvements to GitHub organization permissions to all organizations on GitHub.com. These improvements include new customizable member privileges, fine-grained team permissions, and more open communication. Over the next few days, all organization owners will be able to take advantage of the new system.
+
+Announced a few short months ago, these improvements give your organization the flexibility to work the way you want. To recap, here are ju
